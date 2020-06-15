@@ -4,7 +4,7 @@ Una breve introuccion a *Github*
 
  tabla 
 
-| Git | cammand line |
+| Git | command line |
 |-----|--------------|
-| pull| bajar archivo|
-|push | subir archivo|
+| pull| bajar archivo |
+|push| subir archivo|
